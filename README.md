@@ -13,10 +13,9 @@ I'm a **Product Manager** specializing in building AI-integrated features and tr
   - 🧘‍♂️ **[VitaFit](https://www.loom.com/share/8a89de4045374554b5e04082862b9b04):** Developed product strategies and focused on effective communication for a leading on-demand health and fitness platform specializing in yoga and Zumba.
   - 🌍 **[ConnectEU MVP](https://imranfaizportfolio.edgeone.app/):** Designed a social media platform MVP tailored for the European Union market.
   - ⚙️ **Airdrive Smart Solutions:** Led the discovery and rollout of workflow engine enhancements as an AI Product Manager Intern, reducing task completion time by ~25%.
-- 📫 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfaiz12/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://imranfaizportfolio.edgeone.app/)
-- ⚡ Fun fact: My background spans from Biotechnology to an MBA in Data Science, giving me a highly analytical, multi-disciplinary approach to solving product challenges!
+  - 📫 How to reach me:<br>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranfaiz12/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://imranfaizportfolio.edgeone.app/)
+  - ⚡ Fun fact: My background spans from Biotechnology to an MBA in Data Science, giving me a highly analytical, multi-disciplinary approach to solving product challenges!
 
 ---
 
