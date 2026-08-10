@@ -1,9 +1,10 @@
-<img width="2000" height="400" alt="header_2" src="https://github.com/user-attachments/assets/0df98a2d-53d3-45e3-95ff-5c82c2c73a4b" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=250&section=header&text=Mohammed%20Imran%20Faiz&fontSize=60&desc=Product%20Manager%20%7C%20AI%20%26%20Data%20Strategy&descSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ## Hi there 👋
 
 ### 👨‍💻 About Me
 I'm a **Product Manager** specializing in building AI-integrated features and translating ambiguous user problems into structured, data-driven product requirements. I thrive in Agile environments, bridging the gap between engineering execution and user-centric design.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=false&vCenter=true&width=800&lines=Product+Manager;AI-Integrated+Feature+Strategy;Translating+Ambiguity+Into+Requirements;Data-Driven+Decision+Making" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently focused on: **AI Product Management, B2B SaaS workflows, and user retention strategies.**
 - 🌱 I’m currently exploring: **Advanced product analytics and rapid prototyping with tools like Lovable.**
