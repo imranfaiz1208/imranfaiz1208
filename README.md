@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=250&section=header&text=Mohammed%20Imran%20Faiz&fontSize=60&desc=Product%20Manager%20%7C%20AI%20%26%20Data%20Strategy&descSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
-
+![Mohammed Imran Faiz Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=250&section=header&text=Mohammed%20Imran%20Faiz&fontSize=60&desc=Product%20Manager%20|%20AI%20and%20Data%20Strategy&descSize=22&fontColor=ffffff&animation=fadeIn)
 ## Hi there 👋
 
 ### 👨‍💻 About Me
