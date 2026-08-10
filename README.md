@@ -3,17 +3,22 @@
 
 ## Hi there 👋
 
-<!--
-**imranfaiz1208/imranfaiz1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a **Software Engineer & Product Manager** passionate about bridging the gap between technical architecture and user-centric product design. I enjoy building everything from backend services to full-scale social media MVPs.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Full-stack development, Data Science, and Generative AI**
+- 🌱 I’m currently exploring: **Rapid prototyping with tools like Lovable and optimizing cloud deployments on AWS and Azure**
+- 🏗️ Recent highlights: 
+  - Designed the **ConnectEU** social media platform MVP
+  - Built a real-time **Digital Notice Board** using Node.js, Python, and a Raspberry Pi
+  - Completed a software engineering internship optimizing backend services at Airdrive Smart Solutions
+- 📫 How to reach me: **https://www.linkedin.com/in/imranfaiz12/**
+- ⚡ Fun fact: My academic background spans from Biotechnology to an MBA in Data Science, giving me a unique perspective on solving complex, multi-disciplinary problems!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+*(Your banner says it all, but here are the highlights!)*
+- **Languages:** Python, Java, Node.js
+- **Cloud & DevOps:** AWS, Azure
+- **Specialties:** Product Strategy, System Design, Generative AI integration
