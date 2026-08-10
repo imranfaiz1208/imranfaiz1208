@@ -1,4 +1,6 @@
-![Mohammed Imran Faiz Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=180&section=header&text=Mohammed%20Imran%20Faiz&fontSize=50&textAlignY=35&desc=Product%20Manager%20%7C%20AI%20and%20Data%20Strategy&descSize=20&descAlignY=65&fontColor=ffffff&animation=fadeIn)## Hi there 👋
+![Mohammed Imran Faiz Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0077B5&height=180&section=header&text=Mohammed%20Imran%20Faiz&fontSize=50&textAlignY=35&desc=Product%20Manager%20%7C%20AI%20and%20Data%20Strategy&descSize=20&descAlignY=65&fontColor=ffffff&animation=fadeIn)
+
+## Hi there 👋
 
 ### 👨‍💻 About Me
 I'm a **Product Manager** specializing in building AI-integrated features and translating ambiguous user problems into structured, data-driven product requirements. I thrive in Agile environments, bridging the gap between engineering execution and user-centric design.
