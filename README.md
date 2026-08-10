@@ -8,8 +8,9 @@ I'm a **Product Manager** specializing in building AI-integrated features and tr
 - 🔭 I’m currently focused on: **AI Product Management, B2B SaaS workflows, and user retention strategies.**
 - 🌱 I’m currently exploring: **Advanced product analytics and rapid prototyping with tools like Lovable.**
 - 🏗️ Recent Product Highlights: 
-  - 🎥 **[YouTube India Case Study](https://imranfaizportfolio.edgeone.app/):** Researched and designed a feature bridging Shorts and long-form content for Tier 2/3 audiences, prioritizing the MVP roadmap using the RICE framework.
-  - 🍕 **[Zomato Retention Strategy](https://imranfaizportfolio.edgeone.app/):** Analyzed the Tier-1 city engagement funnel and designed a retention strategy with PRD-style documentation and supporting wireframes.
+  - 🎥 **[YouTube India Case Study](https://screenrec.com/share/vC4DoBp3q0):** Researched and designed a feature bridging Shorts and long-form content for Tier 2/3 audiences, prioritizing the MVP roadmap using the RICE framework.
+  - 🍕 **[Zomato Retention Strategy](https://www.loom.com/share/d1fe3efdb9b94c849ed7f6f3a172c0fb):** Analyzed the Tier-1 city engagement funnel and designed a retention strategy with PRD-style documentation and supporting wireframes.
+  - 🧘‍♂️ **[VitaFit](https://www.loom.com/share/8a89de4045374554b5e04082862b9b04):** Developed product strategies and focused on effective communication for a leading on-demand health and fitness platform specializing in yoga and Zumba.
   - 🌍 **[ConnectEU MVP](https://imranfaizportfolio.edgeone.app/):** Designed a social media platform MVP tailored for the European Union market.
   - ⚙️ **Airdrive Smart Solutions:** Led the discovery and rollout of workflow engine enhancements as an AI Product Manager Intern, reducing task completion time by ~25%.
 - 📫 How to reach me: 
@@ -40,7 +41,6 @@ I'm a **Product Manager** specializing in building AI-integrated features and tr
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imranfaiz1208&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranfaiz1208&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranfaiz1208&show_icons=true&theme=dark&hide_border=true)](https://github.com/imranfaiz1208)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranfaiz1208&layout=compact&theme=dark&hide_border=true)](https://github.com/imranfaiz1208)
