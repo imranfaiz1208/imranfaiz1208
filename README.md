@@ -4,7 +4,6 @@
 
 ### 👨‍💻 About Me
 I'm a **Product Manager** specializing in building AI-integrated features and translating ambiguous user problems into structured, data-driven product requirements. I thrive in Agile environments, bridging the gap between engineering execution and user-centric design.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=false&vCenter=true&width=800&lines=Product+Manager;AI-Integrated+Feature+Strategy;Translating+Ambiguity+Into+Requirements;Data-Driven+Decision+Making" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently focused on: **AI Product Management, B2B SaaS workflows, and user retention strategies.**
 - 🌱 I’m currently exploring: **Advanced product analytics and rapid prototyping with tools like Lovable.**
@@ -40,7 +39,6 @@ I'm a **Product Manager** specializing in building AI-integrated features and tr
 *A/B Testing • Agile/Scrum • REST APIs • System Design Basics • AI & LLM Fundamentals*
 
 ---
-
 ### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranfaiz1208&show_icons=true&theme=dark&hide_border=true)](https://github.com/imranfaiz1208)
