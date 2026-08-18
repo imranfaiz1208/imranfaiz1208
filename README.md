@@ -39,7 +39,4 @@ I'm a **Product Manager** specializing in building AI-integrated features and tr
 *A/B Testing • Agile/Scrum • REST APIs • System Design Basics • AI & LLM Fundamentals*
 
 ---
-### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranfaiz1208&show_icons=true&theme=dark&hide_border=true)](https://github.com/imranfaiz1208)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranfaiz1208&layout=compact&theme=dark&hide_border=true)](https://github.com/imranfaiz1208)
